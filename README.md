@@ -6,9 +6,13 @@ A **frontend-only** ecommerce-style landing page for a fictional premium mechani
 
 Coming soon.
 
-## Screenshot
+## Video demo
 
-Coming soon.
+Screen recording of the UI in motion (WebM, committed in this repo):
+
+<video src="public/videos/luxury-keyboard-store.webm" controls playsinline muted width="100%"></video>
+
+If the player does not load in your viewer, open [`public/videos/luxury-keyboard-store.webm`](./public/videos/luxury-keyboard-store.webm) locally or via **Raw** on GitHub.
 
 ## Features
 
@@ -39,4 +43,3 @@ npm run dev
 - Add a full cart drawer with line items and quantity controls
 - Implement product detail routes and URL-based filters
 - Add reduced-motion preferences and deeper accessibility audit
-# luxury-keyboard-store
